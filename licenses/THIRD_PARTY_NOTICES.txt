@@ -1,0 +1,11 @@
+musea/blip is adapted from Salesforce BLIP.
+Copyright (c) 2022, salesforce.com, inc. All rights reserved.
+By Junnan Li. Licensed under BSD-3-Clause; see BLIP.txt.
+Source: https://github.com/salesforce/BLIP
+Changes: relative imports, removal of unused entry points and comments.
+
+vit.py is based on timm (Apache-2.0).
+Source: https://github.com/huggingface/pytorch-image-models
+med.py is based on Hugging Face Transformers BERT (Apache-2.0).
+Source: https://github.com/huggingface/transformers/tree/v4.15.0/src/transformers/models/bert
+See Apache-2.0.txt for the license text.
